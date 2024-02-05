@@ -1,0 +1,6 @@
+.SideBar {
+  max-width: 150px;
+  border-right: 1px solid #e5e7eb;
+  height: 100vh;
+  overflow-y: auto;
+}

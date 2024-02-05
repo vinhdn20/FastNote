@@ -1,0 +1,14 @@
+.allnote {
+  color: gray;
+  font-size: 15px;
+  align-items: center;
+}
+
+.allnoteIcon {
+  margin: 1px;
+  margin-right: 6px;
+}
+
+.allnote span {
+  margin-left: 1px;
+}

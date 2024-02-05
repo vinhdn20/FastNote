@@ -1,0 +1,11 @@
+.navbar a {
+  text-decoration: none;
+  color: #616772;
+  align-items: center;
+  margin: 15px;
+  display: flex;
+}
+
+.navbar a:hover {
+  color: black;
+}
