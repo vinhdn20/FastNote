@@ -1,4 +1,4 @@
-import NavBarY from "../../Common/JS/NavBarY";
+import NavBarY from "../../../../NavBar/JS/NavBarY";
 
 export default function Logo() {
   return (

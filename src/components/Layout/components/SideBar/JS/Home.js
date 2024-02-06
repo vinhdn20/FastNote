@@ -1,10 +1,10 @@
 import { HomeIcon } from "@radix-ui/react-icons";
-import NavBarY from "../../Common/JS/NavBarY";
+import NavBarY from "../../../../NavBar/JS/NavBarY";
 
 export default function Home() {
   return (
     <div className="home">
-      <NavBarY icon={HomeIcon} text={"Home"} link={"#"} />
+      <NavBarY icon={HomeIcon} text={"Home"} link={"/"} />
     </div>
   );
 }

@@ -1,0 +1,11 @@
+.left-div {
+  width: fit-content;
+  z-index: 1;
+  position: fixed;
+}
+
+.content {
+  width: auto;
+
+  margin-left: 122px;
+}
